@@ -1,0 +1,1 @@
+V5 ergänzt eine eigene Seite Torzeit-Analyse mit Balkenvergleich, 15-Minuten-Phasen, Saldo, Gegentoranteil und automatischen Auffälligkeiten. Vorhandene localStorage-Daten bleiben erhalten, da der Schlüssel svt-v4 unverändert bleibt.
